@@ -8,7 +8,7 @@ permalink: "/sequence/"
 **CURRENT VERSION 0.01**
 
 
-## [Genome Technologies Metadata Documentation](/sequence/GT/README.md)
+## [Genome Technologies Metadata Documentation](/sequence/GT/)
 
 ## [Research IT Metadata Documentation](/sequence/RIT/)
 
