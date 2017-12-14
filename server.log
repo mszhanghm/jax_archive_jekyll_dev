@@ -1,0 +1,9 @@
+Configuration file: /home/zhangm/git_repo/jax_archive_jekyll_dev/_config.yml
+            Source: /home/zhangm/git_repo/jax_archive_jekyll_dev
+       Destination: /home/zhangm/git_repo/jax_archive_jekyll_dev/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 1.327 seconds.
+ Auto-regeneration: enabled for '/home/zhangm/git_repo/jax_archive_jekyll_dev'
+    Server address: http://ctritweb.jax.org:8082/
+  Server running... press ctrl-c to stop.
